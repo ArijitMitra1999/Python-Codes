@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CodeWithHarry.iml" filepath="$PROJECT_DIR$/.idea/CodeWithHarry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Heath Care Management System/.idea/Heath Care Management System.iml" filepath="$PROJECT_DIR$/../Heath Care Management System/.idea/Heath Care Management System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ProgrammingHero/.idea/ProgrammingHero.iml" filepath="$PROJECT_DIR$/../ProgrammingHero/.idea/ProgrammingHero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TeluskoPython/.idea/TeluskoPython.iml" filepath="$PROJECT_DIR$/../TeluskoPython/.idea/TeluskoPython.iml" />
+    </modules>
+  </component>
+</project>
